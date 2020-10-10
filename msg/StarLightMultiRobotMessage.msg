@@ -1,0 +1,3 @@
+float64 x_axis_coordinate
+float64 y_axis_coordinate
+float64 yaw
